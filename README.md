@@ -1,5 +1,6 @@
-#ngadu
-Sistem Pengaduan BPS Provinsi Nusa Tenggara Barat
+# ngadu
+
+# Sistem Pengaduan BPS Provinsi Nusa Tenggara Barat
 [pengaduan.bpsntb.id](https://pengaduan.bpsntb.id)
 
 Kebutuhan Sistem
