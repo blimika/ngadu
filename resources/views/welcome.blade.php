@@ -60,13 +60,13 @@
                 </div>
                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
                     <div class="card-body">
-                    Aplikasi Whistleblowing System (WBS) Badan Pusat Statistik adalah aplikasi 
-                    pengelolaan dan tindak lanjut pengaduan serta pelaporan hasil pengelolaan 
-                    pengaduan yang disediakan oleh Badan Pusat Statistik. 
-                    Aplikasi ini sebagai salah satu sarana bagi pejabat/pegawai 
-                    Badan Pusat Statistik sebagai pihak internal dan masyarakat luas pengguna layanan Badan 
-                    Pusat Statistik sebagai pihak eksternal untuk melaporkan dugaan 
-                    adanya pelanggaran dan/atau ketidakpuasan terhadap pelayanan 
+                    Aplikasi Whistleblowing System (WBS) Badan Pusat Statistik adalah aplikasi
+                    pengelolaan dan tindak lanjut pengaduan serta pelaporan hasil pengelolaan
+                    pengaduan yang disediakan oleh Badan Pusat Statistik.
+                    Aplikasi ini sebagai salah satu sarana bagi pejabat/pegawai
+                    Badan Pusat Statistik sebagai pihak internal dan masyarakat luas pengguna layanan Badan
+                    Pusat Statistik sebagai pihak eksternal untuk melaporkan dugaan
+                    adanya pelanggaran dan/atau ketidakpuasan terhadap pelayanan
                     yang dilakukan/diberikan oleh pejabat/pegawai Badan Pusat Statistik.
                     </div>
                 </div>
@@ -80,12 +80,12 @@
                 </div>
                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
                     <div class="card-body">
-                    Respon yang diberikan kepada pelapor berupa respon awal 
-                    (ucapan terima kasih telah melakukan pengaduan) 
-                    dan status/tindak lanjut pengaduan paling akhir 
-                    sesuai dengan respon yang telah diberikan oleh 
-                    pihak penerima pengaduan. Respon terkait dengan 
-                    status/tindak lanjut pengaduan dapat 
+                    Respon yang diberikan kepada pelapor berupa respon awal
+                    (ucapan terima kasih telah melakukan pengaduan)
+                    dan status/tindak lanjut pengaduan paling akhir
+                    sesuai dengan respon yang telah diberikan oleh
+                    pihak penerima pengaduan. Respon terkait dengan
+                    status/tindak lanjut pengaduan dapat
                     dilihat dalam history pengaduan aplikasi WBS-BPS.
                     </div>
                 </div>
@@ -99,12 +99,12 @@
                 </div>
                 <div id="collapseFour" class="collapse" data-parent="#accordion">
                     <div class="card-body">
-                    Sesuai dengan Peraturan Kepala BPS Nomor XX Tahun 2019 
-                    jawaban/respon atas pengaduan yang disampaikan wajib 
-                    diberikan dalam kurun waktu paling lambat XX (XXXX) hari terhitung sejak pengaduan diterima. 
-                    Untuk respon yang disampaikan tertulis melalui surat dapat diberikan 
-                    apabila pelapor mencantumkan identitas secara jelas (nama dan alamat koresponden). 
-                    Untuk respon dari media pengaduan lainnya akan disampaikan dan diberikan 
+                    Sesuai dengan Peraturan Kepala BPS Nomor XX Tahun 2019
+                    jawaban/respon atas pengaduan yang disampaikan wajib
+                    diberikan dalam kurun waktu paling lambat XX (XXXX) hari terhitung sejak pengaduan diterima.
+                    Untuk respon yang disampaikan tertulis melalui surat dapat diberikan
+                    apabila pelapor mencantumkan identitas secara jelas (nama dan alamat koresponden).
+                    Untuk respon dari media pengaduan lainnya akan disampaikan dan diberikan
                     sesuai identitas pelapor yang dicantumkan dalam media pengaduan tersebut.
                     </div>
                 </div>
@@ -118,15 +118,15 @@
                 </div>
                 <div id="collapseFive" class="collapse" data-parent="#accordion">
                     <div class="card-body">
-                    Pengaduan yang anda berikan akan direspon dan tercantum 
-                    dalam aplikasi WBS-BPS ini dan akan terupdate secara otomatis 
+                    Pengaduan yang anda berikan akan direspon dan tercantum
+                    dalam aplikasi WBS-BPS ini dan akan terupdate secara otomatis
                     sesuai dengan respon yang telah diberikan oleh pihak penerima pengaduan.
-                    Untuk dapat melihat respon yang diberikan, anda harus login terlebih 
-                    dahulu dengan username yang telah anda registrasikan di aplikasi 
-                    ini dan anda dapat melihat status pengaduan dalam history 
-                    pengaduan sesuai dengan nomor id laporan pengaduan yang didapatkan. 
-                    Sebagai catatan, pengaduan anda akan lebih mudah ditindaklanjuti 
-                    apabila memenuhi unsur pengaduan. Hal Lebih lanjut/lengkap 
+                    Untuk dapat melihat respon yang diberikan, anda harus login terlebih
+                    dahulu dengan username yang telah anda registrasikan di aplikasi
+                    ini dan anda dapat melihat status pengaduan dalam history
+                    pengaduan sesuai dengan nomor id laporan pengaduan yang didapatkan.
+                    Sebagai catatan, pengaduan anda akan lebih mudah ditindaklanjuti
+                    apabila memenuhi unsur pengaduan. Hal Lebih lanjut/lengkap
                     terkait dengan unsur pengaduan dapat dilihat disini.
                     </div>
                 </div>
@@ -140,9 +140,9 @@
                 </div>
                 <div id="collapseSix" class="collapse" data-parent="#accordion">
                     <div class="card-body">
-                    Kerahasiaan identitas anda sebagai pelapor akan terjaga 
-                    seperti yang telah disebutkan dalam Peraturan Kepala BPS Nomor XX Tahun 2019. 
-                    Namun agar kerahasiaan identitas anda dapat lebih terjaga 
+                    Kerahasiaan identitas anda sebagai pelapor akan terjaga
+                    seperti yang telah disebutkan dalam Peraturan Kepala BPS Nomor XX Tahun 2019.
+                    Namun agar kerahasiaan identitas anda dapat lebih terjaga
                     sebaiknya anda memperhatikan hal-hal sebagaimana disebutkan disini.
                     </div>
                 </div>
@@ -156,10 +156,10 @@
                 </div>
                 <div id="collapseSeven" class="collapse" data-parent="#accordion">
                     <div class="card-body">
-                    Hal tersebut tidak perlu dilakukan. Satu username dapat melakukan 
-                    pengaduan lebih dari satu. Ketika setelah selesai membuat satu pengaduan, 
-                    anda dapat membuat pengaduan terkait dengan dugaan pelanggaran dan/atau ketidakpuasan 
-                    terhadap pelayanan yang diberikan lainnya dengan memilih Menu “Buat Pengaduan”. 
+                    Hal tersebut tidak perlu dilakukan. Satu username dapat melakukan
+                    pengaduan lebih dari satu. Ketika setelah selesai membuat satu pengaduan,
+                    anda dapat membuat pengaduan terkait dengan dugaan pelanggaran dan/atau ketidakpuasan
+                    terhadap pelayanan yang diberikan lainnya dengan memilih Menu “Buat Pengaduan”.
                     Masing-masing pengaduan akan mendapatkan nomor register yang berbeda.
                     </div>
                 </div>
@@ -168,22 +168,22 @@
                 <div class="card">
                 <div class="card-header">
                     <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                    Saya sudah mengirimkan pengaduan namun di kemudian hari saya ingin 
-                    merubah/menambahkan data terkait pengaduan yang saya lakukan, 
+                    Saya sudah mengirimkan pengaduan namun di kemudian hari saya ingin
+                    merubah/menambahkan data terkait pengaduan yang saya lakukan,
                     apa yang harus saya lakukan? Apakah harus membuat pengaduan baru?
                     </a>
                 </div>
                 <div id="collapseThree" class="collapse" data-parent="#accordion">
                     <div class="card-body">
-                    Data yang sudah dilaporkan sebelumnya tidak dapat dilakukan 
-                    perubahan namun anda bisa menambahkan data lain terkait pengaduan 
-                    dengan mengunggah data dalam bentuk seperti dokumen, foto, video, 
-                    dan lain sebagainya masing-masing dengan ukuran maksimum 10 MB. 
-                    Untuk melakukan hal tersebut di atas tidak perlu membuat pengaduan baru. 
-                    Mengunggah data tambahan baru dapat dilakukan dengan login username yang 
-                    telah diregistrasikan sebelumnya di aplikasi ini lalu masuk ke halaman pengaduan. 
-                    Dalam halaman pengaduan, anda memilih pengaduan yang ingin ditambahkan data 
-                    tambahan kemudian memilih (klik kotak kecil “tambah lampiran pengaduan”) 
+                    Data yang sudah dilaporkan sebelumnya tidak dapat dilakukan
+                    perubahan namun anda bisa menambahkan data lain terkait pengaduan
+                    dengan mengunggah data dalam bentuk seperti dokumen, foto, video,
+                    dan lain sebagainya masing-masing dengan ukuran maksimum 10 MB.
+                    Untuk melakukan hal tersebut di atas tidak perlu membuat pengaduan baru.
+                    Mengunggah data tambahan baru dapat dilakukan dengan login username yang
+                    telah diregistrasikan sebelumnya di aplikasi ini lalu masuk ke halaman pengaduan.
+                    Dalam halaman pengaduan, anda memilih pengaduan yang ingin ditambahkan data
+                    tambahan kemudian memilih (klik kotak kecil “tambah lampiran pengaduan”)
                     di bagian bawah rincian pengaduan.
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                     <div class="contact-address">
                         <i class="ion-ios-location-outline"></i>
                         <h3>Alamat Surat</h3>
-                        <address>BPS Provinsi Nusa Tenggara Barat, Jl. Gn. Rinjani No. 2 Dasan Agung Kota Mataram 83126</address>
+                        <address>BPS Provinsi Nusa Tenggara Barat, Jl. Dr. Soedjono No. 74 Kel. Jempong Baru Kec. Sekarbela Kota Mataram NTB - 83116</address>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -237,7 +237,7 @@
                     <div class="contact-email">
                         <i class="ion-ios-email-outline"></i>
                         <h3>Email</h3>
-                        <p><a href="mailto:pengaduan@bps.go.id">pengaduan@bps.go.id</a>
+                        <p><a href="mailto:pengaduan@bpsntb.id">pengaduan@bpsntb.id</a>
                         </p>
                     </div>
                 </div>

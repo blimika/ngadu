@@ -78,13 +78,13 @@
   <!--==========================
     Intro Section
   ============================-->
-  
+
   <section id="intro">
     <div class="intro-container wow fadeIn">
         <p class="mb-4 pb-0">Portal Layanan Pengaduan</p>
       <h1 class="mb-4 pb-0">Whistle-Blowing System<br><span>BPS Provinsi Nusa Tenggara Barat</span></h1>
-      
-     
+
+
     </div>
   </section>
   <main id="main">
@@ -122,8 +122,8 @@
       </div>
   </section>
 
-   
-    
+
+
             <!--==========================
             F.A.Q Section
             ============================-->
@@ -228,7 +228,7 @@
                         <div class="contact-address">
                             <i class="ion-ios-location-outline"></i>
                             <h3>Alamat Surat</h3>
-                            <address>Sekretariat Layanan Pengaduan BPS Provinsi Nusa Tenggara Barat Jalan Gunung Rinjani No. 2 Mataram NTB 83126</address>
+                            <address>Sekretariat Layanan Pengaduan BPS Provinsi Nusa Tenggara Barat Jalan Dr. Soedjono No. 74 Kelurahan Jempong Baru Kecamatan Sekarbela Kota Mataram NTB 83116</address>
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -249,7 +249,7 @@
                         <div class="contact-email">
                             <i class="ion-ios-email-outline"></i>
                             <h3>Email</h3>
-                            <p><a href="mailto:pengaduanbpsntb@gmail.com">pengaduanbpsntb@gmail.com</a>
+                            <p><a href="mailto:pengaduan@bpsntb.id">pengaduan@bpsntb.id</a>
                             </p>
                         </div>
                     </div>
